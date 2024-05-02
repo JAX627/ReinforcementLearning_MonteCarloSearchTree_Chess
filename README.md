@@ -1,7 +1,8 @@
 # ReinforcementLearning_MonteCarloSearchTree_Chess
 This is my course project of chess game, it covers reinforcement learning, monte carlo search tree.....
 
-# python3 game.py Human PYTHON 1, to run this game, which in ReinforcementLearning_MonteCarloSearchTree_Chess/CS4386_A1_forALL/game.py
+python3 game.py Human PYTHON 1, to run this game, which in:
+    ReinforcementLearning_MonteCarloSearchTree_Chess/CS4386_A1_forALL/game.py
 
 # Background
 
